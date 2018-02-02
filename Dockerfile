@@ -1,4 +1,4 @@
-FROM node:9.4-stretch
+FROM node:9.4
 
 LABEL maintainer=services-engineering@vitals.com
 
